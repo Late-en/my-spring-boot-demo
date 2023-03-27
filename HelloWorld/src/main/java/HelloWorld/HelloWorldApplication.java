@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author 邓家鑫
+ * @author Late-en
  */
 @SpringBootApplication
 @RestController
