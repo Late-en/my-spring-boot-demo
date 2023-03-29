@@ -12,6 +12,7 @@
         <module>HelloWorld</module>
         <module>Properties</module>
         <module>Actuator</module>
+        <module>Admin</module>
     </modules>
 
     <properties>
