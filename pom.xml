@@ -15,6 +15,7 @@
         <module>Admin</module>
         <module>logback</module>
         <module>log-aop</module>
+        <module>ExceptionHandler</module>
     </modules>
 
     <properties>
