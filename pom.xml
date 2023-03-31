@@ -14,6 +14,7 @@
         <module>Actuator</module>
         <module>Admin</module>
         <module>logback</module>
+        <module>log-aop</module>
     </modules>
 
     <properties>
