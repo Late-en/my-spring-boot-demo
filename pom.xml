@@ -16,6 +16,7 @@
         <module>logback</module>
         <module>log-aop</module>
         <module>ExceptionHandler</module>
+        <module>orm-mybatis</module>
     </modules>
 
     <properties>
